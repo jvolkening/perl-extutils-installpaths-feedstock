@@ -25,6 +25,7 @@ requirements:
     - perl-extutils-config
   run:
     - perl
+    - perl-extutils-config
 
 test:
   imports:
